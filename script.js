@@ -1,0 +1,3 @@
+TinyTurtle.apply(window); 
+
+forward();
