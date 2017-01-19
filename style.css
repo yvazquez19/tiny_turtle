@@ -1,6 +1,5 @@
-.canvas {
-    width: 400px;
-    height: 400px;
+canvas {
+    width: 500px;
+    height: 300px;
     border-style: solid;
-    border-color: "black";
-}            
+}
