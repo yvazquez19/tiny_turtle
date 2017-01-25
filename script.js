@@ -49,3 +49,8 @@ penUp();
 forward(10);
 penDown();
 stamp();
+
+/*
+Is there a way to make this code shorter?
+Or at least more compact.
+*/
