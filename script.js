@@ -47,7 +47,7 @@ left(7);
 forward(7); //this code is eye shape one
 penUp();
 forward(10);
-penDown();
+penDown(); //just moved turtle away
 stamp();
 
 /*
