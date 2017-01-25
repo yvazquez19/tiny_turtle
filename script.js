@@ -30,6 +30,22 @@ left(7);
 forward(7);
 left(7);
 forward(7);
-left(135);
-
+left(138); //the turn
+forward(7);
+left(7);
+forward(7);
+left(7);
+forward(7);
+forward(7);
+left(7);
+forward(7);
+left(7);
+forward(7);
+left(7);
+forward(7);
+left(7);
+forward(7); //this code is eye shape one
+penUp();
+forward(10);
+penDown();
 stamp();
